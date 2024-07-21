@@ -20,9 +20,9 @@ require (
 	github.com/miekg/dns v1.1.27
 	github.com/mitchellh/go-ps v1.0.0
 	github.com/satori/go.uuid v1.2.0
-	golang.org/x/crypto v0.1.0
-	golang.org/x/sys v0.1.0
-	golang.org/x/tools v0.1.12
+	golang.org/x/crypto v0.17.0
+	golang.org/x/sys v0.15.0
+	golang.org/x/tools v0.6.0
 	gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15 // indirect
 	gopkg.in/yaml.v2 v2.2.7 // indirect
 )
